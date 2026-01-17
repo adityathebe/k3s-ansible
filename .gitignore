@@ -1,4 +1,2 @@
-.env/
-*.log
-ansible.cfg
+.DS_Store
 kubeconfig
